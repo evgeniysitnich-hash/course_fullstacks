@@ -9,7 +9,7 @@ public class home2_1 {
        // boolean canEnter = age >= 18 && hasTicket;
        // System.out.println("Can enter: " + canEnter);
        // Что произойдёт, если hasTicket = false?
-             //   Попробуй изменить && на || — как меняется логика?
+             //   Попробуй изменить && на || — как меняется логика??
 
 
         int age = 25;
