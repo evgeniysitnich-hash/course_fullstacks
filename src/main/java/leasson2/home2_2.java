@@ -4,7 +4,7 @@ public class home2_2 {
     public static void main(String[] args) {
         //2.Объяви переменную:
         //String str = "276";
-        //Присвой это значение таким типам как: Double, Integer, Long.
+        //Присвой это значение таким типам как: Double, Integer, Long..
 
 
         String str = "276";
